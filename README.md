@@ -1,2 +1,2 @@
 # my-anime-tierlist
-Created with CodeSandbox
+Tierlist maker for animes
